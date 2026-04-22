@@ -1,0 +1,14 @@
+E:\YU\C#\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+E:\YU\C#\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.AssemblyInfoInputs.cache
+E:\YU\C#\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.AssemblyInfo.cs
+E:\YU\C#\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\YU\C#\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.exe
+E:\YU\C#\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.deps.json
+E:\YU\C#\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.runtimeconfig.json
+E:\YU\C#\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.dll
+E:\YU\C#\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.pdb
+E:\YU\C#\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.dll
+E:\YU\C#\ConsoleApp5\obj\Debug\net10.0\refint\ConsoleApp5.dll
+E:\YU\C#\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.pdb
+E:\YU\C#\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.genruntimeconfig.cache
+E:\YU\C#\ConsoleApp5\obj\Debug\net10.0\ref\ConsoleApp5.dll

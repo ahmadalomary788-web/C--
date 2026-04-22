@@ -1,0 +1,14 @@
+E:\YU\C#\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\YU\C#\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\YU\C#\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfo.cs
+E:\YU\C#\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\YU\C#\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.exe
+E:\YU\C#\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.deps.json
+E:\YU\C#\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.runtimeconfig.json
+E:\YU\C#\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.dll
+E:\YU\C#\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.pdb
+E:\YU\C#\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.dll
+E:\YU\C#\ConsoleApp2\obj\Debug\net10.0\refint\ConsoleApp2.dll
+E:\YU\C#\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.pdb
+E:\YU\C#\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.genruntimeconfig.cache
+E:\YU\C#\ConsoleApp2\obj\Debug\net10.0\ref\ConsoleApp2.dll
