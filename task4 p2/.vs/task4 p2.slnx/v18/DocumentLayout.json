@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\YU\\C#\\task4 p2\\",
+  "WorkspaceRootPath": "C:\\Users\\AMCT\\Desktop\\C--\\task4 p2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C064F55-FAA3-470D-B642-F677A8AE5064}|task4 p2.csproj|e:\\yu\\c#\\task4 p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C064F55-FAA3-470D-B642-F677A8AE5064}|task4 p2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2B0FC90-A024-98D8-FF72-6EAC14F74FC9}|task4 p2.csproj|c:\\users\\amct\\desktop\\c--\\task4 p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B0FC90-A024-98D8-FF72-6EAC14F74FC9}|task4 p2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\YU\\C#\\task4 p2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMCT\\Desktop\\C--\\task4 p2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\YU\\C#\\task4 p2\\Program.cs",
+              "ToolTip": "C:\\Users\\AMCT\\Desktop\\C--\\task4 p2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwHAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T19:46:31.061Z",
               "EditorCaption": ""
