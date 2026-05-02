@@ -1,0 +1,3 @@
+Name: Laptop, Price: 800, Stock: 7
+Name: Mouse, Price: 25, Stock: 50
+Name: Keyboard, Price: 45, Stock: 50
